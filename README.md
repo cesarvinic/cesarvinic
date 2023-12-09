@@ -1,8 +1,9 @@
-### Hi there Eu sou o César Vinícius Ferreira 👋
-
 <div align="center">
   <img src="header.svg">
 </div>
+
+
+### Hi there Eu sou o César Vinícius Ferreira 👋
 
 
   <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
