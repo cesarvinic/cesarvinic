@@ -17,15 +17,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
           
-          
-          
-          
-          
-          
-          
-          
-          
-
 ## Contato
 
 <a href="https://www.linkedin.com/in/ana-júlia-de-lima-aguiar-leite-009a58209/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
@@ -35,8 +26,8 @@
 
 <div>
 <a href="https://github.com/cesarvinic">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarvinic&layout=compact&langs_count=7&theme=algolia"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarvinic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesarvinic&layout=compact&langs_count=7&theme=holi"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesarvinic&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
 </div>
 
 ## Contador de visitas
