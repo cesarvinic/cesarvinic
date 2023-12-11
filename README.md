@@ -6,7 +6,7 @@
 ### Hi there Eu sou o César Vinícius Ferreira 👋
 
 
-  <li>Apaixonada por tecnologia e Acadêmica de <strong>Sistemas de Informação</strong></li>
+  <li>Atuando no gerenciamento de projetos e arquitetura de soluções voltadas ao objetivo do negócio. Hábil no desenvolvimento e manutenção de sistemas, desenvolvimento de aplicações e administração de servidores, bem como suporte ao usuário. Análise e elaboração de relatórios técnicos e de KPI's com foco na entrega de soluções duráveis e otimização de processos.</strong></li>
   <li>Amante de um bom café 
 </ul>
 <hr>
