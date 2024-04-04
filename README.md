@@ -1,6 +1,9 @@
-<div align="center">
-  <img src="header.svg">
-</div>
+<!--Title @cesarvinic-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00008B&random=false&width=435&lines=Ol%C3%A1%2C+meu+nome+é+César.+;Seja+Bem+vindo(a)+ao+meu+GitHub!)](https://git.io/typing-svg)
+<p align="center"></p> 
+<!--<div align="center">
+</div>-->
+<hr>
 
 
 ### Hi there Eu sou o César Vinícius Ferreira 👋
@@ -44,7 +47,17 @@
 <br>
 </div>
 
-## I need energy
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=FF1493&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
+</p> 
 
-<p><a href="https://www.buymeacoffee.com/maxmullers17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="maxmullers17" /></a></p><br><br>
+<div align="center">
 
+<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/cesarvinic/cesarvinic/blob/main/Obrigada%20RJ.svg" />
+<br></br>
+
+
+<div align="center">
+
+
+</div>
