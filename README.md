@@ -45,18 +45,3 @@
  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{mmvonnseek}/count.svg" /></p> 
 <br>
 </div>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=00008B&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
-</p> 
-
-<div align="center">
-
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://github.com/cesarvinic/cesarvinic/blob/main/Obrigada%20RJ.svg" />
-<br></br>
-
-
-<div align="center">
-
-
-</div>
